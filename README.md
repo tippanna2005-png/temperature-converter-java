@@ -25,7 +25,7 @@ A simple and efficient Java console application that converts temperatures betwe
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/temperature-converter-java.git
+   git clone https://https://github.com/tippanna2005-png/temperature-converter-java/tree/main
    ```
 
 2. Navigate to the project directory:
